@@ -52,6 +52,7 @@ Submit a pull request with a link to your solution in this [file](https://github
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [threeaces' Solution](https://github.com/threeaces/binary_search_tree_ruby_TOP)  
 * [andrewjh271's Solution](https://github.com/andrewjh271/binary_search_tree)
 * [Brandon Austin's Solution](https://github.com/brandonricharda/Binary-Search-Tree)
 * [fillingthemoon's Solution](https://github.com/fillingthemoon/binary-search-trees)
@@ -100,7 +101,6 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Btreims' Solution](https://github.com/btreim/ruby/blob/master/binary_trees.rb)
 * [Samuel Masters' Solution](https://github.com/redeyetuning/rb_binary_tree)
 * [Demo318's solution](https://github.com/Demo318/ruby_data_structures_and_algorithms/blob/master/searching_binary_trees/binary_tree.rb)
-* [Narek's solution](https://github.com/narekokr/binary-search-tree)
 * [0zra's solution](https://github.com/0zra/btree)
 * [mtizim's solution](https://github.com/mtizim/odin_projects/blob/master/ruby/binarysearch.rb)
 * [Ben Deltenre's solution](https://github.com/benjdelt/binary_search_trees)
